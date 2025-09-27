@@ -42,5 +42,3 @@ The app is deployed and available at:
 ## Example
 
 ![alt text](image.png)
-
-**Course Reference:** codebasics.io ML course
